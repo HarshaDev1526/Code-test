@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.oes.orders.OrdersApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.012 s - in com.oes.orders.OrdersApplicationTests

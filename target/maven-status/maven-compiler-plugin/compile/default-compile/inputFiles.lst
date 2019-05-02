@@ -1,0 +1,13 @@
+G:\orders\orders\src\main\java\com\oes\model\Product.java
+G:\orders\orders\src\main\java\com\oes\orders\OrdersApplication.java
+G:\orders\orders\src\main\java\com\oes\model\Products.java
+G:\orders\orders\src\main\java\com\oes\model\Item.java
+G:\orders\orders\src\main\java\com\oes\model\OrderDetails.java
+G:\orders\orders\src\main\java\com\oes\service\OrderDetailsService.java
+G:\orders\orders\src\main\java\com\oes\model\Order.java
+G:\orders\orders\src\main\java\com\oes\service\ProductServiceImpl.java
+G:\orders\orders\src\main\java\com\oes\model\ProductById.java
+G:\orders\orders\src\main\java\com\oes\controller\OrderController.java
+G:\orders\orders\src\main\java\com\oes\http\OesClient.java
+G:\orders\orders\src\main\java\com\oes\repository\OrderRepository.java
+G:\orders\orders\src\main\java\com\oes\service\IProductService.java
